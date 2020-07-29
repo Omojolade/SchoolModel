@@ -1,5 +1,8 @@
 package system.school;
 
+/**
+ * Implementation of Inheritance, Non-Academic Staff is Subclass of Staff
+ */
 public class NonAcademicStaff extends Staff {
     private int salary;
     private String role;

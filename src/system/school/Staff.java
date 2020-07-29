@@ -1,5 +1,9 @@
 package system.school;
 
+/**
+ * Implementation of Inheritance, This is parent class
+ */
+
 public class Staff {
     private String name;
     private String id;

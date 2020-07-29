@@ -1,5 +1,8 @@
 package system.school;
-/*Single responsibility class*/
+
+/**
+ * Single Responsibility Classes
+ */
 public class Class {
     private String session;
 

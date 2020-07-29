@@ -1,5 +1,8 @@
 package system.school;
 
+/**
+ * Implementation Of Inheritance, Teacher is a Subclass of Staff
+ */
 public class Teacher extends Staff {
     private int salary;
     private String taughtCourse;

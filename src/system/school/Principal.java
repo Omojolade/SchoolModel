@@ -1,6 +1,6 @@
 package system.school;
 
-/** OOP Concepts used here are Inheritance
+/** OOP Concepts used here are Inheritance, Principal is a Subclass of Staff
  *  Interface and Encapsulation
  */
 public class Principal extends Staff implements Promotable {
